@@ -2,14 +2,16 @@
 
 ## 我家小白最可愛
 
-热爱前端、热爱技术。工作经验三个月。喜欢参与一些开源项目的讨论。
+人，最宝贵的是生命，生命属于人只有一次。
+
+人的一生应当这样度过：当他回首往事的时候，不会因为碌碌无为、虚度年华而悔恨，也不会因为为人卑劣、生活庸俗而愧疚。这样，在临终的时候，他就能够说：“我已把自己整个生命和全部精力献给了世界上最壮丽的事业----为人类的解放而奋斗”。
 
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   <a href="https:/https://space.bilibili.com/292575107"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：拥有一些戰爭雷霆的視頻
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 18 篇技术文章，8000 阅读
+-   <a href="https:/https://space.bilibili.com/292575107"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：拥有一些戰爭雷霆的視頻，喜欢看二次元
+
 
 ### **技术栈:**
 
